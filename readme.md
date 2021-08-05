@@ -1,5 +1,7 @@
 # War (card game) implemented in Go
 
+War is a card "game" that doesn't involve any decisions or strategy from the player - the winner is determined by the shuffle/deal and which player goes first.  I'm implementing it as an exercise to become more familiar with the Go language.
+
 Slight modification to the Bicycle rules below: when "war" occurs, each player simply turns over one additional card.
 
 [Rules, according to Bicycle:](https://bicyclecards.com/how-to-play/war/)
