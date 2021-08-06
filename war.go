@@ -25,7 +25,7 @@ func main() {
 		}
 
 		if winner >= 0 {
-			fmt.Printf("Player %d wins, after %d hands!", winner+1, hand)
+			fmt.Printf("Player %d wins, after %d hands!\n", winner+1, hand)
 			break
 		}
 
