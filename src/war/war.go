@@ -1,13 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/jwyse/cardgame"
+)
 
 func main() {
 	fmt.Printf("\n    W A R !\n\n")
-	options := DeckCreationOptions{
+	options := cardgame.DeckCreationOptions{
 		Shuffle: true,
 		AceHigh: false}
-	deck := CreateDeck(options)
+	deck := cardgame.CreateDeck(options)
 	fmt.Printf("Initial deck: %s\n\n", deck)
 	playerHands := deck.DealHands(2, 26)
 	validateDecks(deck, playerHands[0], playerHands[1])
@@ -16,7 +20,7 @@ func main() {
 	leadPlayer := 0
 	winner := -1
 	hand := 0
-	pot := Deck{}
+	pot := cardgame.Deck{}
 	for {
 		if len(playerHands[0]) == 0 {
 			winner = 1
@@ -34,14 +38,14 @@ func main() {
 		p2card := playerHands[1].DealCard()
 		if leadPlayer == 0 {
 			fmt.Printf("Player 1: %s ; Player 2: %s ; ", p1card, p2card)
-			pot.addCards(p1card, p2card)
+			pot.AddCards(p1card, p2card)
 		} else {
 			fmt.Printf("Player 2: %s ; Player 1: %s ; ", p2card, p1card)
-			pot.addCards(p2card, p1card)
+			pot.AddCards(p2card, p1card)
 		}
 
 		handWinner := -1
-		switch CompareRanks(p1card, p2card) {
+		switch cardgame.CompareRanks(p1card, p2card) {
 		case -1:
 			{
 				// p1 beats p2
@@ -62,7 +66,7 @@ func main() {
 
 		fmt.Printf("-> Player %d wins the hand!\n\n", handWinner+1)
 		for {
-			if pot.len() == 0 {
+			if pot.Len() == 0 {
 				break
 			}
 			playerHands[handWinner].AddCard(pot.DealCard())
@@ -74,17 +78,17 @@ func main() {
 	}
 }
 
-func showHands(deck, p1, p2 Deck) {
-	fmt.Printf("Player 1: (%d) %s\n", p1.len(), p1)
-	fmt.Printf("Player 2: (%d) %s\n\n", p2.len(), p2)
+func showHands(deck, p1, p2 cardgame.Deck) {
+	fmt.Printf("Player 1: (%d) %s\n", p1.Len(), p1)
+	fmt.Printf("Player 2: (%d) %s\n\n", p2.Len(), p2)
 	validateDecks(deck, p1, p2)
 }
 
-func validateDecks(deck, p1, p2 Deck) {
-	if deck.len() != 0 {
+func validateDecks(deck, p1, p2 cardgame.Deck) {
+	if deck.Len() != 0 {
 		panic("Deck should be empty after dealing to players")
 	}
-	if p1.len()+p2.len() != 52 {
+	if p1.Len()+p2.Len() != 52 {
 		panic("There should be exactly 52 cards in play")
 	}
 }

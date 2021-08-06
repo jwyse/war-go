@@ -1,4 +1,4 @@
-package main
+package cardgame
 
 import (
 	"math/rand"
@@ -35,7 +35,7 @@ func CreateDeck(options DeckCreationOptions) Deck {
 }
 
 // Returns the number of cards in the deck
-func (d Deck) len() int { return len(d) }
+func (d Deck) Len() int { return len(d) }
 
 func (d Deck) String() string {
 	s := ""
@@ -49,7 +49,7 @@ func (d Deck) String() string {
 // Shuffle the deck
 func (d Deck) Shuffle() {
 	for i := range d {
-		d.swapCards(i, rand.Intn(d.len()))
+		d.swapCards(i, rand.Intn(d.Len()))
 	}
 }
 
@@ -59,7 +59,7 @@ func (d *Deck) AddCard(card Card) {
 }
 
 // Add cards to the bottom of a face-down deck
-func (d *Deck) addCards(cards ...Card) {
+func (d *Deck) AddCards(cards ...Card) {
 	for _, card := range cards {
 		d.AddCard(card)
 	}
@@ -83,7 +83,7 @@ func (d *Deck) DealHands(players int, cardsPerPlayer int) []Deck {
 
 	dealToPlayer := 0
 	for i := 0; i < cardsPerPlayer*players; i++ {
-		if d.len() == 0 { // No more cards to deal
+		if d.Len() == 0 { // No more cards to deal
 			break
 		}
 
