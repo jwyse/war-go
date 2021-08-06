@@ -1,0 +1,560 @@
+./war-go.exe
+
+    W A R !
+
+Initial deck: 5♦ 4♣ Q♥ 6♠ 2♠ K♣ 3♣ 4♥ 10♣ J♥ 7♥ 2♥ 5♣ Q♠ K♦ K♥ 3♠ A♦ J♠ 10♦ 6♦ 10♥ 7♣ 8♣ 6♥ 9♣ 4♠ Q♦ 6♣ J♣ K♠ 2♦ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ A♠ A♥ 7♠ 8♦ A♣ 9♦ Q♣ 10♠ 7♦ 3♦ 9♠ 5♥
+
+Player 1: 5♦ ; Player 2: 4♣ ; -> Player 1 wins the hand!
+
+Player 1: (27) Q♥ 2♠ 3♣ 10♣ 7♥ 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣
+Player 2: (25) 6♠ K♣ 4♥ J♥ 2♥ Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥
+
+Player 1: Q♥ ; Player 2: 6♠ ; -> Player 1 wins the hand!
+
+Player 1: (28) 2♠ 3♣ 10♣ 7♥ 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠
+Player 2: (24) K♣ 4♥ J♥ 2♥ Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥
+
+Player 1: 2♠ ; Player 2: K♣ ; -> Player 2 wins the hand!
+
+Player 1: (27) 3♣ 10♣ 7♥ 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠
+Player 2: (25) 4♥ J♥ 2♥ Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣
+
+Player 2: 4♥ ; Player 1: 3♣ ; -> Player 2 wins the hand!
+
+Player 1: (26) 10♣ 7♥ 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠
+Player 2: (26) J♥ 2♥ Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣
+
+Player 2: J♥ ; Player 1: 10♣ ; -> Player 2 wins the hand!
+
+Player 1: (25) 7♥ 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠
+Player 2: (27) 2♥ Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣
+
+Player 2: 2♥ ; Player 1: 7♥ ; -> Player 1 wins the hand!
+
+Player 1: (26) 5♣ K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥
+Player 2: (26) Q♠ K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣
+
+Player 1: 5♣ ; Player 2: Q♠ ; -> Player 2 wins the hand!
+
+Player 1: (25) K♦ 3♠ J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥
+Player 2: (27) K♥ A♦ 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠
+
+Player 2: K♥ ; Player 1: K♦ ; WAR !!
+
+Player 2: A♦ ; Player 1: 3♠ ; -> Player 1 wins the hand!
+
+Player 1: (27) J♠ 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠
+Player 2: (25) 10♦ 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠
+
+Player 1: J♠ ; Player 2: 10♦ ; -> Player 1 wins the hand!
+
+Player 1: (28) 6♦ 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (24) 10♥ 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠
+
+Player 1: 6♦ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (27) 7♣ 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (25) 8♣ 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥
+
+Player 2: 8♣ ; Player 1: 7♣ ; -> Player 2 wins the hand!
+
+Player 1: (26) 6♥ 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (26) 9♣ Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣
+
+Player 2: 9♣ ; Player 1: 6♥ ; -> Player 2 wins the hand!
+
+Player 1: (25) 4♠ 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (27) Q♦ J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥
+
+Player 2: Q♦ ; Player 1: 4♠ ; -> Player 2 wins the hand!
+
+Player 1: (24) 6♣ K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (28) J♣ 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠
+
+Player 2: J♣ ; Player 1: 6♣ ; -> Player 2 wins the hand!
+
+Player 1: (23) K♠ 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦
+Player 2: (29) 2♦ 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 2: 2♦ ; Player 1: K♠ ; -> Player 1 wins the hand!
+
+Player 1: (24) 8♠ J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠
+Player 2: (28) 4♦ 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 1: 8♠ ; Player 2: 4♦ ; -> Player 1 wins the hand!
+
+Player 1: (25) J♦ 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦
+Player 2: (27) 8♥ 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 1: J♦ ; Player 2: 8♥ ; -> Player 1 wins the hand!
+
+Player 1: (26) 5♠ 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥
+Player 2: (26) 2♣ 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 1: 5♠ ; Player 2: 2♣ ; -> Player 1 wins the hand!
+
+Player 1: (27) 9♥ A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣
+Player 2: (25) 3♥ A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 1: 9♥ ; Player 2: 3♥ ; -> Player 1 wins the hand!
+
+Player 1: (28) A♠ 7♠ A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥
+Player 2: (24) A♥ 8♦ 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣
+
+Player 1: A♠ ; Player 2: A♥ ; WAR !!
+
+Player 1: 7♠ ; Player 2: 8♦ ; -> Player 2 wins the hand!
+
+Player 1: (26) A♣ Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥
+Player 2: (26) 9♦ 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦
+
+Player 2: 9♦ ; Player 1: A♣ ; -> Player 2 wins the hand!
+
+Player 1: (25) Q♣ 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥
+Player 2: (27) 10♠ 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣
+
+Player 2: 10♠ ; Player 1: Q♣ ; -> Player 1 wins the hand!
+
+Player 1: (26) 7♦ 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣
+Player 2: (26) 3♦ 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣
+
+Player 1: 7♦ ; Player 2: 3♦ ; -> Player 1 wins the hand!
+
+Player 1: (27) 9♠ 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦
+Player 2: (25) 5♥ 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣
+
+Player 1: 9♠ ; Player 2: 5♥ ; -> Player 1 wins the hand!
+
+Player 1: (28) 5♦ 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥
+Player 2: (24) 2♠ K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣
+
+Player 1: 5♦ ; Player 2: 2♠ ; -> Player 1 wins the hand!
+
+Player 1: (29) 4♣ Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠
+Player 2: (23) K♣ 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣
+
+Player 1: 4♣ ; Player 2: K♣ ; -> Player 2 wins the hand!
+
+Player 1: (28) Q♥ 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠
+Player 2: (24) 4♥ 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣
+
+Player 2: 4♥ ; Player 1: Q♥ ; -> Player 1 wins the hand!
+
+Player 1: (29) 6♠ 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥
+Player 2: (23) 3♣ J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣
+
+Player 1: 6♠ ; Player 2: 3♣ ; -> Player 1 wins the hand!
+
+Player 1: (30) 2♥ 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣
+Player 2: (22) J♥ 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣
+
+Player 1: 2♥ ; Player 2: J♥ ; -> Player 2 wins the hand!
+
+Player 1: (29) 7♥ K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣
+Player 2: (23) 10♣ 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥
+
+Player 2: 10♣ ; Player 1: 7♥ ; -> Player 2 wins the hand!
+
+Player 1: (28) K♥ K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣
+Player 2: (24) 5♣ Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥
+
+Player 2: 5♣ ; Player 1: K♥ ; -> Player 1 wins the hand!
+
+Player 1: (29) K♦ A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥
+Player 2: (23) Q♠ 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥
+
+Player 1: K♦ ; Player 2: Q♠ ; -> Player 1 wins the hand!
+
+Player 1: (30) A♦ 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠
+Player 2: (22) 6♦ 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥
+
+Player 1: A♦ ; Player 2: 6♦ ; -> Player 2 wins the hand!
+
+Player 1: (29) 3♠ J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠
+Player 2: (23) 10♥ 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦
+
+Player 2: 10♥ ; Player 1: 3♠ ; -> Player 2 wins the hand!
+
+Player 1: (28) J♠ 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠
+Player 2: (24) 8♣ 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠
+
+Player 2: 8♣ ; Player 1: J♠ ; -> Player 1 wins the hand!
+
+Player 1: (29) 10♦ 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠
+Player 2: (23) 7♣ 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠
+
+Player 1: 10♦ ; Player 2: 7♣ ; -> Player 1 wins the hand!
+
+Player 1: (30) 2♦ K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣
+Player 2: (22) 9♣ 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠
+
+Player 1: 2♦ ; Player 2: 9♣ ; -> Player 2 wins the hand!
+
+Player 1: (29) K♠ 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣
+Player 2: (23) 6♥ Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣
+
+Player 2: 6♥ ; Player 1: K♠ ; -> Player 1 wins the hand!
+
+Player 1: (30) 8♠ 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠
+Player 2: (22) Q♦ 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣
+
+Player 1: 8♠ ; Player 2: Q♦ ; -> Player 2 wins the hand!
+
+Player 1: (29) 4♦ J♦ 8♥ 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠
+Player 2: (23) 4♠ J♣ 6♣ A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦
+
+Player 2: 4♠ ; Player 1: 4♦ ; WAR !!
+
+Player 2: J♣ ; Player 1: J♦ ; WAR !!
+
+Player 2: 6♣ ; Player 1: 8♥ ; -> Player 1 wins the hand!
+
+Player 1: (32) 5♠ 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥
+Player 2: (20) A♠ A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦
+
+Player 1: 5♠ ; Player 2: A♠ ; -> Player 1 wins the hand!
+
+Player 1: (33) 2♣ 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠
+Player 2: (19) A♥ 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦
+
+Player 1: 2♣ ; Player 2: A♥ ; -> Player 1 wins the hand!
+
+Player 1: (34) 9♥ 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥
+Player 2: (18) 7♠ 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦
+
+Player 1: 9♥ ; Player 2: 7♠ ; -> Player 1 wins the hand!
+
+Player 1: (35) 3♥ 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠
+Player 2: (17) 8♦ 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦
+
+Player 1: 3♥ ; Player 2: 8♦ ; -> Player 2 wins the hand!
+
+Player 1: (34) 10♠ Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠
+Player 2: (18) 9♦ A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦
+
+Player 2: 9♦ ; Player 1: 10♠ ; -> Player 1 wins the hand!
+
+Player 1: (35) Q♣ 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠
+Player 2: (17) A♣ 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦
+
+Player 1: Q♣ ; Player 2: A♣ ; -> Player 1 wins the hand!
+
+Player 1: (36) 7♦ 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣
+Player 2: (16) 4♣ K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦
+
+Player 1: 7♦ ; Player 2: 4♣ ; -> Player 1 wins the hand!
+
+Player 1: (37) 3♦ 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣
+Player 2: (15) K♣ 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦
+
+Player 1: 3♦ ; Player 2: K♣ ; -> Player 2 wins the hand!
+
+Player 1: (36) 9♠ 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣
+Player 2: (16) 2♥ J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣
+
+Player 2: 2♥ ; Player 1: 9♠ ; -> Player 1 wins the hand!
+
+Player 1: (37) 5♥ 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠
+Player 2: (15) J♥ 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣
+
+Player 1: 5♥ ; Player 2: J♥ ; -> Player 2 wins the hand!
+
+Player 1: (36) 5♦ 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠
+Player 2: (16) 10♣ 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥
+
+Player 2: 10♣ ; Player 1: 5♦ ; -> Player 2 wins the hand!
+
+Player 1: (35) 2♠ 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠
+Player 2: (17) 7♥ A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦
+
+Player 2: 7♥ ; Player 1: 2♠ ; -> Player 2 wins the hand!
+
+Player 1: (34) 4♥ Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠
+Player 2: (18) A♦ 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠
+
+Player 2: A♦ ; Player 1: 4♥ ; -> Player 1 wins the hand!
+
+Player 1: (35) Q♥ 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥
+Player 2: (17) 6♦ 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠
+
+Player 1: Q♥ ; Player 2: 6♦ ; -> Player 1 wins the hand!
+
+Player 1: (36) 6♠ 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦
+Player 2: (16) 10♥ 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠
+
+Player 1: 6♠ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (35) 3♣ 5♣ K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦
+Player 2: (17) 3♠ 2♦ 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 2: 3♠ ; Player 1: 3♣ ; WAR !!
+
+Player 2: 2♦ ; Player 1: 5♣ ; -> Player 1 wins the hand!
+
+Player 1: (37) K♥ K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣
+Player 2: (15) 9♣ 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: K♥ ; Player 2: 9♣ ; -> Player 1 wins the hand!
+
+Player 1: (38) K♦ Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣
+Player 2: (14) 8♠ Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: K♦ ; Player 2: 8♠ ; -> Player 1 wins the hand!
+
+Player 1: (39) Q♠ 8♣ J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠
+Player 2: (13) Q♦ 3♥ 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: Q♠ ; Player 2: Q♦ ; WAR !!
+
+Player 1: 8♣ ; Player 2: 3♥ ; -> Player 1 wins the hand!
+
+Player 1: (41) J♠ 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥
+Player 2: (11) 8♦ 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: J♠ ; Player 2: 8♦ ; -> Player 1 wins the hand!
+
+Player 1: (42) 10♦ 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦
+Player 2: (10) 3♦ K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: 10♦ ; Player 2: 3♦ ; -> Player 1 wins the hand!
+
+Player 1: (43) 7♣ 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦
+Player 2: (9) K♣ 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥
+
+Player 1: 7♣ ; Player 2: K♣ ; -> Player 2 wins the hand!
+
+Player 1: (42) 6♥ K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦
+Player 2: (10) 5♥ J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥ 7♣ K♣
+
+Player 2: 5♥ ; Player 1: 6♥ ; -> Player 1 wins the hand!
+
+Player 1: (43) K♠ 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥
+Player 2: (9) J♥ 10♣ 5♦ 7♥ 2♠ 6♠ 10♥ 7♣ K♣
+
+Player 1: K♠ ; Player 2: J♥ ; -> Player 1 wins the hand!
+
+Player 1: (44) 4♠ 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥
+Player 2: (8) 10♣ 5♦ 7♥ 2♠ 6♠ 10♥ 7♣ K♣
+
+Player 1: 4♠ ; Player 2: 10♣ ; -> Player 2 wins the hand!
+
+Player 1: (43) 4♦ J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥
+Player 2: (9) 5♦ 7♥ 2♠ 6♠ 10♥ 7♣ K♣ 4♠ 10♣
+
+Player 2: 5♦ ; Player 1: 4♦ ; -> Player 2 wins the hand!
+
+Player 1: (42) J♣ J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥
+Player 2: (10) 7♥ 2♠ 6♠ 10♥ 7♣ K♣ 4♠ 10♣ 5♦ 4♦
+
+Player 2: 7♥ ; Player 1: J♣ ; -> Player 1 wins the hand!
+
+Player 1: (43) J♦ 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣
+Player 2: (9) 2♠ 6♠ 10♥ 7♣ K♣ 4♠ 10♣ 5♦ 4♦
+
+Player 1: J♦ ; Player 2: 2♠ ; -> Player 1 wins the hand!
+
+Player 1: (44) 6♣ 8♥ 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (8) 6♠ 10♥ 7♣ K♣ 4♠ 10♣ 5♦ 4♦
+
+Player 1: 6♣ ; Player 2: 6♠ ; WAR !!
+
+Player 1: 8♥ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (42) 5♠ A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (10) 7♣ K♣ 4♠ 10♣ 5♦ 4♦ 6♣ 6♠ 8♥ 10♥
+
+Player 2: 7♣ ; Player 1: 5♠ ; -> Player 2 wins the hand!
+
+Player 1: (41) A♠ 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (11) K♣ 4♠ 10♣ 5♦ 4♦ 6♣ 6♠ 8♥ 10♥ 7♣ 5♠
+
+Player 2: K♣ ; Player 1: A♠ ; -> Player 2 wins the hand!
+
+Player 1: (40) 2♣ A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (12) 4♠ 10♣ 5♦ 4♦ 6♣ 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠
+
+Player 2: 4♠ ; Player 1: 2♣ ; -> Player 2 wins the hand!
+
+Player 1: (39) A♥ 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (13) 10♣ 5♦ 4♦ 6♣ 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣
+
+Player 2: 10♣ ; Player 1: A♥ ; -> Player 2 wins the hand!
+
+Player 1: (38) 9♥ 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠
+Player 2: (14) 5♦ 4♦ 6♣ 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 2: 5♦ ; Player 1: 9♥ ; -> Player 1 wins the hand!
+
+Player 1: (39) 7♠ 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥
+Player 2: (13) 4♦ 6♣ 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 1: 7♠ ; Player 2: 4♦ ; -> Player 1 wins the hand!
+
+Player 1: (40) 9♦ 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦
+Player 2: (12) 6♣ 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 1: 9♦ ; Player 2: 6♣ ; -> Player 1 wins the hand!
+
+Player 1: (41) 10♠ Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣
+Player 2: (11) 6♠ 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 1: 10♠ ; Player 2: 6♠ ; -> Player 1 wins the hand!
+
+Player 1: (42) Q♣ A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠
+Player 2: (10) 8♥ 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 1: Q♣ ; Player 2: 8♥ ; -> Player 1 wins the hand!
+
+Player 1: (43) A♣ 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥
+Player 2: (9) 10♥ 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥
+
+Player 1: A♣ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (42) 7♦ 4♣ 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥
+Player 2: (10) 7♣ 5♠ K♣ A♠ 4♠ 2♣ 10♣ A♥ A♣ 10♥
+
+Player 2: 7♣ ; Player 1: 7♦ ; WAR !!
+
+Player 2: 5♠ ; Player 1: 4♣ ; -> Player 2 wins the hand!
+
+Player 1: (40) 2♥ 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥
+Player 2: (12) K♣ A♠ 4♠ 2♣ 10♣ A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣
+
+Player 2: K♣ ; Player 1: 2♥ ; -> Player 2 wins the hand!
+
+Player 1: (39) 9♠ A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥
+Player 2: (13) A♠ 4♠ 2♣ 10♣ A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥
+
+Player 2: A♠ ; Player 1: 9♠ ; -> Player 1 wins the hand!
+
+Player 1: (40) A♦ 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠
+Player 2: (12) 4♠ 2♣ 10♣ A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥
+
+Player 1: A♦ ; Player 2: 4♠ ; -> Player 2 wins the hand!
+
+Player 1: (39) 4♥ Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠
+Player 2: (13) 2♣ 10♣ A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠
+
+Player 2: 2♣ ; Player 1: 4♥ ; -> Player 1 wins the hand!
+
+Player 1: (40) Q♥ 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥
+Player 2: (12) 10♣ A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠
+
+Player 1: Q♥ ; Player 2: 10♣ ; -> Player 1 wins the hand!
+
+Player 1: (41) 6♦ 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣
+Player 2: (11) A♥ A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠
+
+Player 1: 6♦ ; Player 2: A♥ ; -> Player 1 wins the hand!
+
+Player 1: (42) 3♠ 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥
+Player 2: (10) A♣ 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠
+
+Player 1: 3♠ ; Player 2: A♣ ; -> Player 1 wins the hand!
+
+Player 1: (43) 3♣ 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣
+Player 2: (9) 10♥ 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠
+
+Player 1: 3♣ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (42) 2♦ 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣
+Player 2: (10) 7♣ 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠ 3♣ 10♥
+
+Player 2: 7♣ ; Player 1: 2♦ ; -> Player 2 wins the hand!
+
+Player 1: (41) 5♣ K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣
+Player 2: (11) 7♦ 5♠ 4♣ K♣ 2♥ A♦ 4♠ 3♣ 10♥ 7♣ 2♦
+
+Player 2: 7♦ ; Player 1: 5♣ ; -> Player 2 wins the hand!
+
+Player 1: (40) K♥ 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣
+Player 2: (12) 5♠ 4♣ K♣ 2♥ A♦ 4♠ 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 2: 5♠ ; Player 1: K♥ ; -> Player 1 wins the hand!
+
+Player 1: (41) 9♣ K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥
+Player 2: (11) 4♣ K♣ 2♥ A♦ 4♠ 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: 9♣ ; Player 2: 4♣ ; -> Player 1 wins the hand!
+
+Player 1: (42) K♦ 8♠ Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣
+Player 2: (10) K♣ 2♥ A♦ 4♠ 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: K♦ ; Player 2: K♣ ; WAR !!
+
+Player 1: 8♠ ; Player 2: 2♥ ; -> Player 1 wins the hand!
+
+Player 1: (44) Q♠ Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥
+Player 2: (8) A♦ 4♠ 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: Q♠ ; Player 2: A♦ ; -> Player 1 wins the hand!
+
+Player 1: (45) Q♦ 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦
+Player 2: (7) 4♠ 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: Q♦ ; Player 2: 4♠ ; -> Player 1 wins the hand!
+
+Player 1: (46) 8♣ 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠
+Player 2: (6) 3♣ 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: 8♣ ; Player 2: 3♣ ; -> Player 1 wins the hand!
+
+Player 1: (47) 3♥ J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣
+Player 2: (5) 10♥ 7♣ 2♦ 7♦ 5♣
+
+Player 1: 3♥ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (46) J♠ 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣
+Player 2: (6) 7♣ 2♦ 7♦ 5♣ 3♥ 10♥
+
+Player 2: 7♣ ; Player 1: J♠ ; -> Player 1 wins the hand!
+
+Player 1: (47) 8♦ 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠
+Player 2: (5) 2♦ 7♦ 5♣ 3♥ 10♥
+
+Player 1: 8♦ ; Player 2: 2♦ ; -> Player 1 wins the hand!
+
+Player 1: (48) 10♦ 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦
+Player 2: (4) 7♦ 5♣ 3♥ 10♥
+
+Player 1: 10♦ ; Player 2: 7♦ ; -> Player 1 wins the hand!
+
+Player 1: (49) 3♦ 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦
+Player 2: (3) 5♣ 3♥ 10♥
+
+Player 1: 3♦ ; Player 2: 5♣ ; -> Player 2 wins the hand!
+
+Player 1: (48) 5♥ 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦
+Player 2: (4) 3♥ 10♥ 3♦ 5♣
+
+Player 2: 3♥ ; Player 1: 5♥ ; -> Player 1 wins the hand!
+
+Player 1: (49) 6♥ K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥
+Player 2: (3) 10♥ 3♦ 5♣
+
+Player 1: 6♥ ; Player 2: 10♥ ; -> Player 2 wins the hand!
+
+Player 1: (48) K♠ J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥
+Player 2: (4) 3♦ 5♣ 6♥ 10♥
+
+Player 2: 3♦ ; Player 1: K♠ ; -> Player 1 wins the hand!
+
+Player 1: (49) J♥ 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥ 3♦ K♠
+Player 2: (3) 5♣ 6♥ 10♥
+
+Player 1: J♥ ; Player 2: 5♣ ; -> Player 1 wins the hand!
+
+Player 1: (50) 7♥ J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥ 3♦ K♠ J♥ 5♣
+Player 2: (2) 6♥ 10♥
+
+Player 1: 7♥ ; Player 2: 6♥ ; -> Player 1 wins the hand!
+
+Player 1: (51) J♣ J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥ 3♦ K♠ J♥ 5♣ 7♥ 6♥
+Player 2: (1) 10♥
+
+Player 1: J♣ ; Player 2: 10♥ ; -> Player 1 wins the hand!
+
+Player 1: (52) J♦ 2♠ 5♦ 9♥ 7♠ 4♦ 9♦ 6♣ 10♠ 6♠ Q♣ 8♥ A♠ 9♠ 2♣ 4♥ Q♥ 10♣ 6♦ A♥ 3♠ A♣ 5♠ K♥ 9♣ 4♣ K♦ K♣ 8♠ 2♥ Q♠ A♦ Q♦ 4♠ 8♣ 3♣ 7♣ J♠ 8♦ 2♦ 10♦ 7♦ 3♥ 5♥ 3♦ K♠ J♥ 5♣ 7♥ 6♥ J♣ 10♥
+Player 2: (0)
+
+Player 1 wins, after 116 hands!

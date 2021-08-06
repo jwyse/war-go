@@ -8,7 +8,7 @@ func main() {
 		Shuffle: true,
 		AceHigh: false}
 	deck := CreateDeck(options)
-	fmt.Printf("Initial deck: %s\n", deck)
+	fmt.Printf("Initial deck: %s\n\n", deck)
 	playerHands := deck.DealHands(2, 26)
 	validateDecks(deck, playerHands[0], playerHands[1])
 
@@ -33,12 +33,10 @@ func main() {
 		p1card := playerHands[0].DealCard()
 		p2card := playerHands[1].DealCard()
 		if leadPlayer == 0 {
-			fmt.Printf("Player 1: %s ; ", p1card)
-			fmt.Printf("Player 2: %s ; ", p2card)
+			fmt.Printf("Player 1: %s ; Player 2: %s ; ", p1card, p2card)
 			pot.addCards(p1card, p2card)
 		} else {
-			fmt.Printf("Player 2: %s ; ", p2card)
-			fmt.Printf("Player 1: %s ; ", p1card)
+			fmt.Printf("Player 2: %s ; Player 1: %s ; ", p2card, p1card)
 			pot.addCards(p2card, p1card)
 		}
 
