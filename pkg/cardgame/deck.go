@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-type Deck []Card
+type Deck []PlayingCard
 
 type DeckCreationOptions struct {
 	// Whether to shuffle the deck
@@ -21,7 +21,7 @@ func CreateDeck(options DeckCreationOptions) Deck {
 	suits := GetSuits()
 	for _, s := range suits {
 		for i := 1; i < 14; i++ {
-			card := Card{rank: uint8(i), suit: suits[s]}
+			card := PlayingCard{rank: uint8(i), suit: suits[s]}
 			if options.AceHigh && i == 1 {
 				card.rank = 14
 			}
@@ -54,19 +54,19 @@ func (d Deck) Shuffle() {
 }
 
 // Add a card to the bottom of a face-down deck
-func (d *Deck) AddCard(card Card) {
+func (d *Deck) AddCard(card PlayingCard) {
 	*d = append(*d, card)
 }
 
 // Add cards to the bottom of a face-down deck
-func (d *Deck) AddCards(cards ...Card) {
+func (d *Deck) AddCards(cards ...PlayingCard) {
 	for _, card := range cards {
 		d.AddCard(card)
 	}
 }
 
 // Deal a card from the top of a face-down deck
-func (d *Deck) DealCard() Card {
+func (d *Deck) DealCard() PlayingCard {
 	card := (*d)[0]
 	*d = (*d)[1:]
 	return card

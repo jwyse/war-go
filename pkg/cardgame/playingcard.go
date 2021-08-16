@@ -2,7 +2,7 @@ package cardgame
 
 import "fmt"
 
-type Card struct {
+type PlayingCard struct {
 	rank uint8
 	suit Suit
 }
@@ -11,7 +11,7 @@ type Card struct {
 // Returns -1 if the first card is higher, 1 if the second card is higher, or 0 if the ranks are equal.
 // Ace high/low was determined when the deck was created.
 // Suit is ignored.
-func CompareRanks(c1, c2 Card) int8 {
+func Compare(c1, c2 PlayingCard) int8 {
 	if c1.rank == c2.rank {
 		return 0
 	} else if c1.rank > c2.rank {
@@ -59,12 +59,12 @@ func rankAbbrev(i uint8) string {
 }
 
 // Returns the name of the card; i.e. "Ace of Spades", "2 of Clubs"
-func (c Card) Name() string {
+func (c PlayingCard) Name() string {
 	value := rank(uint8(c.rank))
 	return fmt.Sprintf("%v of %v", value, c.suit)
 }
 
-func (c Card) String() string {
+func (c PlayingCard) String() string {
 	value := rankAbbrev(uint8(c.rank))
 	return fmt.Sprintf("%v%v", value, c.suit)
 }

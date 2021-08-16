@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jwyse/cardgame"
+	"github.com/jwyse/war/pkg/cardgame"
 )
 
 func main() {
@@ -45,7 +45,7 @@ func main() {
 		}
 
 		handWinner := -1
-		switch cardgame.CompareRanks(p1card, p2card) {
+		switch cardgame.Compare(p1card, p2card) {
 		case -1:
 			{
 				// p1 beats p2
