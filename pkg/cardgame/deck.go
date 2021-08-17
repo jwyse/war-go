@@ -1,6 +1,7 @@
 package cardgame
 
 import (
+	"log"
 	"math/rand"
 	"time"
 )
@@ -21,7 +22,7 @@ func CreateDeck(options DeckCreationOptions) Deck {
 	suits := GetSuits()
 	for _, s := range suits {
 		for i := 1; i < 14; i++ {
-			card := PlayingCard{rank: uint8(i), suit: suits[s]}
+			card := PlayingCard{rank: uint8(i), suit: s}
 			if options.AceHigh && i == 1 {
 				card.rank = 14
 			}
@@ -67,6 +68,9 @@ func (d *Deck) AddCards(cards ...PlayingCard) {
 
 // Deal a card from the top of a face-down deck
 func (d *Deck) DealCard() PlayingCard {
+	if d.Len() == 0 {
+		log.Fatalf("cannot deal from an empty deck")
+	}
 	card := (*d)[0]
 	*d = (*d)[1:]
 	return card
@@ -83,10 +87,6 @@ func (d *Deck) DealHands(players int, cardsPerPlayer int) []Deck {
 
 	dealToPlayer := 0
 	for i := 0; i < cardsPerPlayer*players; i++ {
-		if d.Len() == 0 { // No more cards to deal
-			break
-		}
-
 		hands[dealToPlayer].AddCard(d.DealCard())
 
 		dealToPlayer++

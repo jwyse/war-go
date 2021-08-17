@@ -22,7 +22,7 @@ func Compare(c1, c2 PlayingCard) int8 {
 }
 
 // Returns the rank name, i.e. "Ace", "Queen", "3"
-func rank(i uint8) string {
+func rankName(i uint8) string {
 	value := fmt.Sprint(i)
 	switch i {
 	case 1:
@@ -54,14 +54,14 @@ func rankAbbrev(i uint8) string {
 	if i >= 2 && i <= 10 {
 		return fmt.Sprint(i)
 	}
-	rank := rank(i)
+	rank := rankName(i)
 	return string(rank[0])
 }
 
 // Returns the name of the card; i.e. "Ace of Spades", "2 of Clubs"
 func (c PlayingCard) Name() string {
-	value := rank(uint8(c.rank))
-	return fmt.Sprintf("%v of %v", value, c.suit)
+	value := rankName(uint8(c.rank))
+	return fmt.Sprintf("%v of %v", value, c.suit.Name())
 }
 
 func (c PlayingCard) String() string {

@@ -5,10 +5,12 @@ import "fmt"
 type Suit uint8
 
 const (
-	Spades Suit = iota
+	_ = iota // 0 (unset) should be invalid
+	Spades
 	Hearts
 	Clubs
 	Diamonds
+	_
 )
 
 func GetSuits() []Suit {
